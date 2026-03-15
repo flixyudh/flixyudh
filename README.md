@@ -2,9 +2,20 @@
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yudiiswandi)
 [![linkedin](https://skillicons.dev/icons?i=gmail)](mailto:yudhi.trendhi@gmail.com)
 
-**React Native Engineer | Hybrid Mobile App Specialist**
+**React Native Engineer | Golang | Typescript | Hybrid Mobile App Specialist**
 
 I am an experienced React Native Engineer with over **6 years of expertise** in building robust hybrid mobile applications. Currently based in Tangerang, Banten, I specialize in full-cycle application development, system optimization, and leading technical teams to deliver high-quality software solutions.
+
+---
+
+### 🛠️ Apps I'm Building
+
+#### 🚀 [Fams](https://fams.yudimy.id) (Flix App Management System)
+*Mobile app distribution*
+
+* **Frontend:** React, TypeScript, and RSBuild for optimized build speeds.
+* **Backend:** High-concurrency services powered by **Golang**.
+* **Infrastructure:** Fully containerized with **Docker** and deployed behind Nginx Proxy Manager.
 
 ---
 
