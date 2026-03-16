@@ -4,7 +4,7 @@
 
 **React Native Engineer | Golang | Typescript | Hybrid Mobile App Specialist**
 
-I am an experienced React Native Engineer with over **6 years of expertise** in building robust hybrid mobile applications. Currently based in Tangerang, Banten, I specialize in full-cycle application development, system optimization, and leading technical teams to deliver high-quality software solutions.
+I am an experienced React Native Engineer with over **6 years of expertise** in building robust hybrid mobile applications. Currently based in Tangerang, Indonesia, I specialize in full-cycle application development, system optimization, and leading technical teams to deliver high-quality software solutions.
 
 ---
 
@@ -18,6 +18,7 @@ A full-stack **App Distribution & CodePush Management Dashboard** — a self-hos
 - Manage organizations, team members, roles, and invitations
 - Monitor release activity via a rich analytics dashboard
 
+**Tech Stack**:
 * **Frontend:** React, TypeScript, and RSBuild for optimized build speeds.
 * **Backend:** High-concurrency services powered by **Golang**.
 
