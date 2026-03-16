@@ -11,11 +11,15 @@ I am an experienced React Native Engineer with over **6 years of expertise** in 
 ### 🛠️ Apps I'm Building
 
 #### 🚀 [Fams](https://fams.yudimy.id) (Flix App Management System)
-*Mobile app distribution*
+A full-stack **App Distribution & CodePush Management Dashboard** — a self-hosted alternative to Microsoft AppCenter. It allows teams to:
+
+- Distribute iOS (`.ipa`) and Android (`.apk`) builds to testers via download links and QR codes
+- Push OTA JavaScript updates via **CodePush** without App Store resubmission
+- Manage organizations, team members, roles, and invitations
+- Monitor release activity via a rich analytics dashboard
 
 * **Frontend:** React, TypeScript, and RSBuild for optimized build speeds.
 * **Backend:** High-concurrency services powered by **Golang**.
-* **Infrastructure:** Fully containerized with **Docker** and deployed behind Nginx Proxy Manager.
 
 ---
 
@@ -31,7 +35,7 @@ I am an experienced React Native Engineer with over **6 years of expertise** in 
 ### 🛠️ Tech Stack & Tools
 
 **Languages**
-[![language](https://skillicons.dev/icons?i=js,ts,java)](https://github.com/flixyudh)
+[![language](https://skillicons.dev/icons?i=js,ts,java,go)](https://github.com/flixyudh)
 
 **Frameworks & Libraries**
 [![framwork](https://skillicons.dev/icons?i=react,nodejs,express,androidstudio)](https://github.com/flixyudh)
